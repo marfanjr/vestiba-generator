@@ -1,0 +1,30 @@
+{
+  {QUESTAO 1
+    {ALTERNATIVA 1  {V}}
+    {ALTERNATIVA 2  {F}}
+    {ALTERNATIVA 3  {F}}
+    {ALTERNATIVA 4  {V}}
+    {ALTERNATIVA 5  {V}}
+  }
+  {QUESTAO 2
+    {ALTERNATIVA 1  {V}}
+    {ALTERNATIVA 2  {F}}
+    {ALTERNATIVA 3  {V}}
+    {ALTERNATIVA 4  {F}}
+    {ALTERNATIVA 5  {V}}
+  }
+  {QUESTAO 3
+    {ALTERNATIVA 1  {F}}
+    {ALTERNATIVA 2  {V}}
+    {ALTERNATIVA 3  {V}}
+    {ALTERNATIVA 4  {V}}
+    {ALTERNATIVA 5  {V}}
+  }
+  {QUESTAO 4
+    {ALTERNATIVA 1  {F}}
+    {ALTERNATIVA 2  {V}}
+    {ALTERNATIVA 3  {V}}
+    {ALTERNATIVA 4  {V}}
+    {ALTERNATIVA 5  {V}}
+  }
+}
